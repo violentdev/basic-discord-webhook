@@ -1,7 +1,7 @@
 ## About The Project (Translation was used.)
 Discord-webhook system with a simple structure to specify any data in the server to the channel you specify on discord.
 
-###Setup
+### Setup
 
 ![Discord](https://i.hizliresim.com/19oiop.png)
 
@@ -9,13 +9,13 @@ Discord-webhook system with a simple structure to specify any data in the server
 
 ![Discord](https://i.hizliresim.com/laknp4.png)
 
-2) "veri1", "veri2" is the part specified for your use of webhooks, write the channel name here and add the webhook link you copied to "webhook1", "webhook2".
+2) "data1", "data2" is the part specified for your use of webhooks, write the channel name here and add the webhook link you copied to "webhook1", "webhook2".
 
 ### Usage
 
 client side - server side
 exports["basic-discord-webhook"]:webhook(data, message) 
--- data; "veri1", "veri2" represents what you write in.
+-- data; "data1", "data2" represents what you write in.
 
 ## Proje Hakkında
 Sunucu içindeki herhangi bir veriyi discord üzerinde belirlediğiniz kanala belirtmeniz adına sade yapıya sahip discord-webhook sistemi.
@@ -28,10 +28,10 @@ Sunucu içindeki herhangi bir veriyi discord üzerinde belirlediğiniz kanala be
 
 ![Discord](https://i.hizliresim.com/laknp4.png)
 
-2) "veri1", "veri2" webhookları kullanımınız adına belirlenen kısımdır, buraya kanal ismini yazın ve "webhook1", "webhook2" kısmına kopyaladığınız webhook linkini ekleyin.
+2) "data1", "data2" webhookları kullanımınız adına belirlenen kısımdır, buraya kanal ismini yazın ve "webhook1", "webhook2" kısmına kopyaladığınız webhook linkini ekleyin.
 
 ### Kullanım
 
 client side - server side
 exports["basic-discord-webhook"]:webhook(veri, mesaj) 
--- veri; "veri1", "veri2" kısmına yazdıklarınızı temsil eder.
+-- veri; "data1", "data2" kısmına yazdıklarınızı temsil eder.
