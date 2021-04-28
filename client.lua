@@ -1,3 +1,3 @@
-function webhook(msg)
-  triggerServerEvent("violent >> webhook", localPlayer, msg)
+function webhook(kanal, msg)
+  triggerServerEvent("violent >> webhook", localPlayer, kanal, msg)
 end
