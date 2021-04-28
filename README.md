@@ -7,7 +7,7 @@ Discord-webhook system with a simple structure to specify any data in the server
 
 1) Create a webhook from the channel settings you set on your Discord server as shown in the image above and copy the link.
 
-![Discord](https://i.hizliresim.com/laknp4.png)
+![Discord](https://i.hizliresim.com/cu7izf.png)
 
 2) "data1", "data2" is the part specified for your use of webhooks, write the channel name here and add the webhook link you copied to "webhook1", "webhook2".
 
@@ -26,7 +26,7 @@ Sunucu içindeki herhangi bir veriyi discord üzerinde belirlediğiniz kanala be
 
 1) Yukarıdaki görselde görünen şekilde Discord sunucunuzda belirlediğiniz kanal ayarları içerisinden webhook oluşturun ve linki kopyalayın.
 
-![Discord](https://i.hizliresim.com/laknp4.png)
+![Discord](https://i.hizliresim.com/cu7izf.png)
 
 2) "data1", "data2" webhookları kullanımınız adına belirlenen kısımdır, buraya kanal ismini yazın ve "webhook1", "webhook2" kısmına kopyaladığınız webhook linkini ekleyin.
 
