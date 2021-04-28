@@ -1,4 +1,4 @@
-function webhook()
+function webhook(msg)
 		sendOptions = {
 		queueName = "mta",
 		connectionAttempts = 3,
