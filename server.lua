@@ -9,3 +9,5 @@ function webhook(msg)
 	}
 	fetchRemote ( "webhook adresiniz", sendOptions, function() end )
 end
+addEvent("violent >> webhook", true)
+addEventHandler("violent >> webhook", root, webhook)
