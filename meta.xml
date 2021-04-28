@@ -3,4 +3,7 @@
   
   <script src="sourceS.lua"/>
   <script src="sourceC.lua"/>
+  
+  <export function="webhook" type="server" />
+  <export function="webhook" type="client" />
 </meta>
