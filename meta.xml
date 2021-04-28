@@ -1,0 +1,6 @@
+<meta>
+  <info author="Violent" version="0.1" type="script" name="Basic Discord Webhook" />
+  
+  <script src="sourceS.lua"/>
+  <script src="sourceC.lua"/>
+</meta>
